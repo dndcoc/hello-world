@@ -1,2 +1,7 @@
 Trying to create a new file.txt.    
 hope it works
+
+okay,
+seems going well
+
+then i'm editing it
